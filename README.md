@@ -64,12 +64,6 @@ After installation, access samples at Assets/Packages/[System Name]/Samples/
 | `AnimationParameter` | Base class for animation parameters (Bool, Trigger) |
 | `AnimationTransition` | Defines transitions between states based on parameters |
 
-## 📦 Installation
-
-1. Download or clone this repository
-2. Add the files to your Unity project (2019.4+ recommended)
-3. Create the necessary ScriptableObjects through the Unity Editor
-
 ## 🚀 Quick Start
 
 ### 1. Create Animation Clips
@@ -335,4 +329,5 @@ This system is part of my professional portfolio. Feel free to:
 - Extend with new parameter types (Float, Integer)
 - Add blend trees or layered animations
 - Adapt for your specific animation needs
+
 
